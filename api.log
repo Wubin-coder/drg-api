@@ -1,0 +1,8 @@
+2026-02-15 21:27:59 - INFO - GET / - 200 - 0.003s
+2026-02-15 21:28:37 - INFO - GET /review_case - 405 - 0.000s
+2026-02-15 21:29:28 - INFO - GET /docs - 200 - 0.001s
+2026-02-15 21:29:28 - INFO - GET /openapi.json - 200 - 0.014s
+2026-02-15 21:29:49 - WARNING - Group code ZZ99 not found in database
+2026-02-15 21:29:49 - INFO - POST /review_case - 200 - 0.012s
+2026-02-15 21:30:11 - INFO - POST /review_case - 200 - 0.006s
+2026-02-15 21:30:45 - INFO - POST /review_case - 200 - 0.002s
